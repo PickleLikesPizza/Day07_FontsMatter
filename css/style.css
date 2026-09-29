@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(226, 240, 225);
+    font-family: "green-fairy-full-combo", sans-serif;
+}
+h1 {
+    font-family: "green-fairy-full", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+h2 {
+    font-family: "green-fairy-outline", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+.card {
+    background-color: rgb(204, 230, 205);
+    border-style:solid;
+    border-color:azure;
+    border-width: 5px;
+    padding:50px;
+    max-width:fit-content;
+    text-align:center;
+    margin:50px;
+}
